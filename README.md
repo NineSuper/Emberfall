@@ -26,7 +26,7 @@ Plongez dans un monde d'action où vous affronterez des vagues d'ennemis variés
 - [ ] Intégration d'items/armes </br>
 - [ ] Agrandir la Roadmap
 
-## 👀 Aperçus actuels
+## 👀 Aperçu actuel
 
 ![cube](./gif/Exemple.gif)
 
