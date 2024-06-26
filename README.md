@@ -21,7 +21,7 @@ Plongez dans un monde d'action où vous affronterez des vagues d'ennemis variés
 - [x] Visualisation des serveurs en ligne </br>
 - [🚧] Permettre aux utilisateurs de créer leur propre serveur </br>
 - [ ] Ajouter de la musique/sfx
-- [ ] Implémentation de l'invitation/rejoindre un ami/serveur </br>
+- [🚧] Implémentation de l'invitation/rejoindre un ami/serveur </br>
 - [ ] Ajouter un HUD </br>
 - [ ] Intégration d'items/armes </br>
 - [ ] Agrandir la Roadmap
