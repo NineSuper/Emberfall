@@ -14,17 +14,17 @@ Plongez dans un monde d'action où vous affronterez des vagues d'ennemis variés
 
 ### 📅 Roadmap
 
-[🚧] Refaire la base du jeu (joueur/tilemap/ennemis/armes/etc..) </br>
-[x] Création d'un menu utilisateur </br>
-[🚧] Mise en place des options (design/audio/options/touches) </br>
-[x] Intégration d'amis Steam en direct/en jeu </br>
-[x] Visualisation des serveurs en ligne </br>
-[🚧] Permettre aux utilisateurs de créer leur propre serveur </br>
-[ ] Ajouter de la musique/sfx
-[ ] Implémentation de l'invitation/rejoindre un ami/serveur </br>
-[ ] Ajouter d'un HUD </br>
-[ ] Intégration d'items/armes </br>
-[ ] Agrandir la Roadmap
+- [🚧] Refaire la base du jeu (joueur/tilemap/ennemis/armes/etc..) </br>
+- [x] Création d'un menu utilisateur </br>
+- [🚧] Mise en place des options (design/audio/options/touches) </br>
+- [x] Intégration d'amis Steam en direct/en jeu </br>
+- [x] Visualisation des serveurs en ligne </br>
+- [🚧] Permettre aux utilisateurs de créer leur propre serveur </br>
+- [ ] Ajouter de la musique/sfx
+- [ ] Implémentation de l'invitation/rejoindre un ami/serveur </br>
+- [ ] Ajouter d'un HUD </br>
+- [ ] Intégration d'items/armes </br>
+- [ ] Agrandir la Roadmap
 
 ## 👀 Aperçus actuels
 
