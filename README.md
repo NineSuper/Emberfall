@@ -7,9 +7,9 @@ Plongez dans un monde d'action où vous affronterez des vagues d'ennemis variés
 
 🛠️ Fonctionnalités </br>
 🌟 Vue de dessus avec effets de lumière dynamiques. </br>
-🎮 Support multijoueur pour coopérer avec des amis. </br>
-🧟‍♂️ Vagues d'ennemis avec comportements variés. </br>
-🎮 Contrôles fluides du joueur et mouvements réactifs. </br>
+🎮 Support multijoueur. </br>
+🧟‍♂️ Vagues d'ennemis. </br>
+🎮 Contrôles fluides du joueur. </br>
 ⚙️ Menu d'options pour les configurations de touches, affichage et audio. </br>
 
 ### 📅 Roadmap
