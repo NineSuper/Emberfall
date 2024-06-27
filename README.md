@@ -3,9 +3,8 @@
 Bienvenue dans Top-View Shooter 👽, un projet de jeu multijoueur développé avec Godot ! </br> 
 Plongez dans un monde d'action où vous affronterez des vagues d'ennemis variés, avec des effets de lumière dynamiques inspirés de Project Zomboid et un gameplay.
 
-## 🎮 Description
+## 🛠️ Fonctionnalités
 
-🛠️ Fonctionnalités </br>
 🌟 Vue de dessus avec effets de lumière dynamiques. </br>
 🎮 Support multijoueur. </br>
 🧟‍♂️ Vagues d'ennemis. </br>
