@@ -15,6 +15,7 @@ Plongez dans un monde d'action où vous affronterez des vagues d'ennemis variés
 
 - [🚧] Refaire la base du jeu (joueur/tilemap/ennemis/armes/etc..) </br>
 - [x] Création d'un menu utilisateur </br>
+- [🚧] Faire l'onglet 'Jouer'
 - [🚧] Mise en place des options (design/audio/options/touches) </br>
 - [x] Intégration d'amis Steam en direct/en jeu </br>
 - [x] Visualisation des serveurs en ligne </br>
