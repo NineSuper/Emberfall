@@ -13,7 +13,7 @@ Plongez dans un monde d'action où vous affronterez des vagues d'ennemis variés
 
 ## 📅 Roadmap
 
-# UI/UX :
+#### UI/UX :
 - [x] Création d'un menu utilisateur </br>
 - [🚧] Faire l'onglet 'Jouer' </br>
 - [🚧] Mise en place des options (design/audio/options/touches) </br>
@@ -21,12 +21,12 @@ Plongez dans un monde d'action où vous affronterez des vagues d'ennemis variés
 - [x] Visualisation des serveurs en ligne </br>
 - [🚧] Permettre aux utilisateurs de créer leur propre serveur </br>
 - [🚧] Implémentation de l'invitation/rejoindre un ami/serveur </br>
-# Gameplay :
+#### Gameplay :
 - [ ] Ajouter un HUD au gameplay </br>
 - [ ] Refaire la base du jeu (joueur/tilemap/ennemis/armes/etc..) </br>
-# Audio :
+#### Audio :
 - [ ] Ajouter de la musique/sfx </br>
-# Autres :
+#### Autres :
 - [ ] Mise en place de sauvegarde des paramètres </br>
 - [ ] Intégration d'items/armes </br>
 
