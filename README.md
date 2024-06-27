@@ -33,7 +33,7 @@ Plongez dans un monde d'action où vous affronterez des vagues d'ennemis variés
 - [ ] Ajouter de la musique/sfx </br>
 #### 🔨 Autres :
 - [ ] Mise en place de sauvegarde des paramètres </br>
-- [ ] Intégration d'items/armes </br>
+- [ ] Mise en place de sauvegarde de parties </br>
 
 ## 👀 Aperçu actuel
 
