@@ -22,8 +22,13 @@ Plongez dans un monde d'action où vous affronterez des vagues d'ennemis variés
 - [🚧] Permettre aux utilisateurs de créer leur propre serveur </br>
 - [🚧] Implémentation de l'invitation/rejoindre un ami/serveur </br>
 #### 🎮 Gameplay :
+- [ ] Revoir le desing du jeu (Joueur/Ennemis/Tilemap/Item/Hud/etc..)  </br>
+- [ ] Faire les mécaniques du joueur </br>
+- [ ] Faire les classes ennemis </br>
+- [ ] Créer différentes armes avec leur propre propriété </br>
+- [ ] Ajout d'items au sol (Armes/pièces/etc..) </br>
+- [ ] Système de lumière autour du joueur </br>
 - [ ] Ajouter un HUD au gameplay </br>
-- [ ] Refaire la base du jeu (joueur/tilemap/ennemis/armes/etc..) </br>
 #### 🔊 Audio :
 - [ ] Ajouter de la musique/sfx </br>
 #### 🔨 Autres :
