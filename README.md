@@ -19,8 +19,9 @@ Plongez dans un monde d'action où vous affronterez des vagues d'ennemis variés
 - [🚧] Mise en place des options (design/audio/options/touches) </br>
 - [x] Intégration d'amis Steam en direct/en jeu </br>
 - [x] Visualisation des serveurs en ligne </br>
-- [🚧] Permettre aux utilisateurs de créer leur propre serveur </br>
+- [x] Permettre aux utilisateurs de créer leur propre serveur </br>
 - [🚧] Implémentation de l'invitation/rejoindre un ami/serveur </br>
+- [🚧] Mettre une image de serveur par défaut si l'utilisateur ne choisi pas d'image </br>
 #### 🎮 Gameplay :
 - [ ] Revoir le desing du jeu (Joueur/Ennemis/Tilemap/Item/Hud/etc..)  </br>
 - [ ] Faire les mécaniques du joueur </br>
@@ -32,8 +33,10 @@ Plongez dans un monde d'action où vous affronterez des vagues d'ennemis variés
 #### 🔊 Audio :
 - [ ] Ajouter de la musique/sfx </br>
 #### 🔨 Autres :
+- [🚧] Kick les joueurs du serveur si l'Owner se déconnecte </br>
 - [ ] Mise en place de sauvegarde des paramètres </br>
 - [ ] Mise en place de sauvegarde de parties </br>
+
 
 ## 👀 Aperçu actuel
 
