@@ -18,8 +18,8 @@ Ce jeu se déroulera dans un monde **post-apocalyptique** infesté de **zombies*
 
 #### 🖥️ Menus et Interfaces :
 	🌐 Écran d'Accueil :
-		- [✅] Création d'un écran d'accueil
-			- [🚧] Faire tous les onglets
+	 [✅] Création d'un écran d'accueil
+	 [🚧] Faire tous les onglets
 	🕹️ Menu de Jeu :
 		- [ ] Faire un menu de jeu
 		- [🚧] Mise en place des options (graphique/audio/options/touches)
