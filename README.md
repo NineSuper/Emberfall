@@ -1,9 +1,11 @@
-<h1 style="text-align: center;">
+<!-- <h1 style="text-align: center;">
   <img src="./imgs/Emberfall.png" alt="Emberfall Logo" style="height: 256px; width: 256px;">
-</h1>
+</h1> -->
 
+![Emberfall](./imgs/Emberfall.png)
 
 **Emberfall** est un projet de jeu multijoueur **top-down** que je développe pour m'initier à **Godot** et réaliser mon rêve de créer un petit jeu amusant à jouer entre amis. </br>
+
 Ce jeu se déroulera dans un monde post-apocalyptique infesté de zombies, où les joueurs devront coopérer pour survivre à des ennemis de plus en plus coriaces au fil de leur aventure. </br>
 
 👽 Inspiré de **Project Zomboid** et **Forager**.
