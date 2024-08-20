@@ -1,6 +1,6 @@
 <h1>
-  <img src="./imgs/Emberfall.png" alt="Emberfall Logo" style="height: 64px; width: 64px; vertical-align: middle;">
   Emberfall
+  <img src="./imgs/Emberfall.png" alt="Emberfall Logo" style="height: 128px; width: 128px; vertical-align: right;">
 </h1>
 
 Emberfall 💀 est un projet de jeu multijoueur top-down que je développe pour m'initier à Godot et réaliser mon rêve de créer un petit jeu amusant à jouer entre amis. </br>
