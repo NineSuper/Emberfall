@@ -35,7 +35,7 @@ Ce jeu se déroulera dans un monde **post-apocalyptique** infesté de **zombies*
     [ ]Permettre aux joueurs non-Steam de créer un compte avec pseudo et photo de profil
 #### 🎮 Gameplay :
 	🏙️ Environnements :
- 	    [ ] Faire la ville d'**Embervalle**
+ 	    [ ] Faire la ville d'Embervalle
 	🎭 Personnages et Entités :
         [ ] Refaire tous les squelettes du jeu (Joueur/Ennemis/Items/etc.)
         [ ] Revoir les mécaniques du joueur à partir de zéro
