@@ -3,7 +3,7 @@
 </h1>
 
 
-Emberfall 💀 est un projet de jeu multijoueur top-down que je développe pour m'initier à Godot et réaliser mon rêve de créer un petit jeu amusant à jouer entre amis. </br>
+Emberfall 🕊 est un projet de jeu multijoueur top-down que je développe pour m'initier à Godot et réaliser mon rêve de créer un petit jeu amusant à jouer entre amis. </br>
 Ce jeu se déroulera dans un monde post-apocalyptique infesté de zombies, où les joueurs devront coopérer pour survivre à des ennemis de plus en plus coriaces au fil de leur aventure. </br>
 
 👽 Inspiré de **Project Zomboid** et **Forager**.
