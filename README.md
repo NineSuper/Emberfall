@@ -4,7 +4,7 @@
 
 Ce jeu se déroulera dans un monde post-apocalyptique infesté de zombies, où les joueurs devront coopérer pour survivre à des ennemis de plus en plus coriaces au fil de leur aventure. </br>
 
-👽 Inspiré de **Project Zomboid** et **Forager**.
+👽 Inspiré de **Project Zomboid** et **Dead Ahead: Zombie Warfare**.
 
 ## 🛠️ Fonctionnalités
 
