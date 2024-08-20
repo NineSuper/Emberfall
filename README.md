@@ -1,8 +1,8 @@
 <h1>
   <img src="./imgs/Emberfall.png" alt="Emberfall Logo" style="height: 256px; width: 256px; vertical-align: middle;">
+  # Emberfall
 </h1>
 
-# Emberfall
 
 Emberfall 💀 est un projet de jeu multijoueur top-down que je développe pour m'initier à Godot et réaliser mon rêve de créer un petit jeu amusant à jouer entre amis. </br>
 Ce jeu se déroulera dans un monde post-apocalyptique infesté de zombies, où les joueurs devront coopérer pour survivre à des ennemis de plus en plus coriaces au fil de leur aventure. </br>
