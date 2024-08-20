@@ -18,41 +18,41 @@ Ce jeu se déroulera dans un monde **post-apocalyptique** infesté de **zombies*
 
 #### 🖥️ Menus et Interfaces :
 	🌐 Écran d'Accueil :
-	 [✅] Création d'un écran d'accueil
-	 [🚧] Faire tous les onglets
+	 	[✅] Création d'un écran d'accueil
+	 	[🚧] Faire tous les onglets
 	🕹️ Menu de Jeu :
-		- [ ] Faire un menu de jeu
-		- [🚧] Mise en place des options (graphique/audio/options/touches)
+		[ ] Faire un menu de jeu
+		[🚧] Mise en place des options (graphique/audio/options/touches)
 #### 👥 Intégration des Amis et Serveurs :
-    - [✅] Intégration d'amis Steam en direct/en jeu
-    - [✅] Visualisation des serveurs en ligne
-    - [✅] Permettre aux utilisateurs de créer leur propre serveur
-	    - [🚧] Permettre aux utilisateurs de mettre un mot de passe
- 	    - [ ] Permettre aux utilisateurs d'être sur la même partie
-	    - [ ] Mettre un logo de serveur par défaut si l'utilisateur ne choisit pas d'image
-	    - [ ] Mettre une liste de logos de serveur par défaut
-    - [ ] Implémentation de l'invitation/rejoindre un ami/serveur
-    - [ ]Permettre aux joueurs non-Steam de créer un compte avec pseudo et photo de profil
+    [✅] Intégration d'amis Steam en direct/en jeu
+    [✅] Visualisation des serveurs en ligne
+    [✅] Permettre aux utilisateurs de créer leur propre serveur
+	    [🚧] Permettre aux utilisateurs de mettre un mot de passe
+ 	    [ ] Permettre aux utilisateurs d'être sur la même partie
+	    [ ] Mettre un logo de serveur par défaut si l'utilisateur ne choisit pas d'image
+	    [ ] Mettre une liste de logos de serveur par défaut
+    [ ] Implémentation de l'invitation/rejoindre un ami/serveur
+    [ ]Permettre aux joueurs non-Steam de créer un compte avec pseudo et photo de profil
 #### 🎮 Gameplay :
 	🏙️ Environnements :
- 	    - [ ] Faire la ville d'**Embervalle**
+ 	    [ ] Faire la ville d'**Embervalle**
 	🎭 Personnages et Entités :
-        - [ ] Refaire tous les squelettes du jeu (Joueur/Ennemis/Items/etc.)
-        - [ ] Revoir les mécaniques du joueur à partir de zéro
-        - [ ] Développer la classe abstraite pour les ennemis/items/armes
-        - [ ] Créer différentes armes avec leurs propres propriétés
-        - [ ] Ajout d'items au sol (Armes/pièces/etc.)
-        - [ ] Système de lumière autour du joueur
-    - [ ] Ajouter un HUD au gameplay
+        [ ] Refaire tous les squelettes du jeu (Joueur/Ennemis/Items/etc.)
+        [ ] Revoir les mécaniques du joueur à partir de zéro
+        [ ] Développer la classe abstraite pour les ennemis/items/armes
+        [ ] Créer différentes armes avec leurs propres propriétés
+        [ ] Ajout d'items au sol (Armes/pièces/etc.)
+        [ ] Système de lumière autour du joueur
+    [ ] Ajouter un HUD au gameplay
 #### 🔊 Audio :
-	- [ ] Ajouter de la musique et des effets sonores (SFX)
+	[ ] Ajouter de la musique et des effets sonores (SFX)
 #### 🔨 Système et Fonctionnalités :
 	🛡️ Gestion des Serveurs :
-		- [🚧] Expulser les joueurs du serveur si l'Owner se déconnecte
+		[🚧] Expulser les joueurs du serveur si l'Owner se déconnecte
 	💾 Sauvegardes :
-		- [ ] Revoir les sauvegardes de paramètres et de parties pour une meilleure compatibilité
-		- [ ] Mise en place de sauvegarde des paramètres
-		- [ ] Mise en place de sauvegarde des parties
+		[ ] Revoir les sauvegardes de paramètres et de parties pour une meilleure compatibilité
+		[ ] Mise en place de sauvegarde des paramètres
+		[ ] Mise en place de sauvegarde des parties
 
 ## 👀 Aperçu actuel
 
