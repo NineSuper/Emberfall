@@ -1,7 +1,9 @@
-# Emberfall
+# ![Emberfall Logo](./logo/Emberfall.png){:height="40px" width="40px"} Emberfall
 
-Bienvenue dans Top-View Shooter 👽, un projet de jeu multijoueur développé avec Godot ! </br> 
-Plongez dans un monde d'action où vous affronterez des vagues d'ennemis variés, avec des effets de lumière dynamiques inspirés de Project Zomboid et Forager.
+Emberfall 💀 est un projet de jeu multijoueur top-down que je développe pour m'initier à Godot et réaliser mon rêve de créer un petit jeu amusant à jouer entre amis. </br>
+Ce jeu se déroulera dans un monde post-apocalyptique infesté de zombies, où les joueurs devront coopérer pour survivre à des ennemis de plus en plus coriaces au fil de leur aventure. </br>
+
+🔊 Inspiré de **Project Zomboid** et **Forager**.
 
 ## 🛠️ Fonctionnalités
 
@@ -22,10 +24,11 @@ Plongez dans un monde d'action où vous affronterez des vagues d'ennemis variés
 - [x] Permettre aux utilisateurs de créer leur propre serveur </br>
 - [🚧] Implémentation de l'invitation/rejoindre un ami/serveur </br>
 - [🚧] Mettre une image de serveur par défaut si l'utilisateur ne choisi pas d'image </br>
+- [🚧] Permettre aux joueurs non-Steam de créer un compte avec pseudo et photo de profil
 #### 🎮 Gameplay :
-- [ ] Revoir le desing du jeu (Joueur/Ennemis/Tilemap/Item/Hud/etc..)  </br>
-- [ ] Faire les mécaniques du joueur </br>
-- [ ] Faire les classes ennemis </br>
+- [ ] Refaire tous les squelettes du jeu (Joueur/Ennemis/Items) </br>
+- [ ] Revoir les mécaniques du joueur à partir de zéro </br>
+- [ ] Développer la classe abstraite pour les ennemis </br>
 - [ ] Créer différentes armes avec leur propre propriété </br>
 - [ ] Ajout d'items au sol (Armes/pièces/etc..) </br>
 - [ ] Système de lumière autour du joueur </br>
@@ -34,13 +37,13 @@ Plongez dans un monde d'action où vous affronterez des vagues d'ennemis variés
 - [ ] Ajouter de la musique/sfx </br>
 #### 🔨 Autres :
 - [🚧] Kick les joueurs du serveur si l'Owner se déconnecte </br>
+- [ ] Revoir les sauvegardes de paramètres et de parties pour une meilleure compatibilité
 - [ ] Mise en place de sauvegarde des paramètres </br>
 - [ ] Mise en place de sauvegarde de parties </br>
 
-
 ## 👀 Aperçu actuel
 
-![cube](./gif/Exemple.gif)
+![exemple](./gif/Exemple.gif)
 
 ### 📝 Auteur
 - 🎫 [@NineSuper](https://www.github.com/NineSuper)
