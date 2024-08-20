@@ -1,5 +1,5 @@
 <h1>
-  <img src="./imgs/Emberfall.png" alt="Emberfall Logo" style="height: 40px; width: 40px; vertical-align: middle;">
+  <img src="./imgs/Emberfall.png" alt="Emberfall Logo" style="height: 64px; width: 64px; vertical-align: middle;">
   Emberfall
 </h1>
 
