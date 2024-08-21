@@ -14,7 +14,7 @@ Ce jeu se déroulera dans un monde post-apocalyptique infesté de zombies, où l
 🎮 Contrôles du joueur. </br>
 ⚙️ Menu d'options pour les configurations de touches, affichage et audio. </br>
 
-### ⚠️ Toutes la base du jeu est en train d'être refondée à partir de zéro, tout ce qu'il y'a ci-dessous est actuellement en pause ! ⚠️
+### ⚠️ Toutes la base du jeu est en train d'être refondée à partir de zéro ! ⚠️
 
 ## 📅 Roadmap
 
@@ -62,7 +62,8 @@ Ce jeu se déroulera dans un monde post-apocalyptique infesté de zombies, où l
 	[❌] Mise en place de sauvegarde des paramètres
 	[❌] Mise en place de sauvegarde des parties
 
-## 👀 Aperçu actuel (⚠️ Le gameplay ainsi que le style graphique n'est plus le même à ce jour ! ⚠️)
+## 👀 Aperçu actuel 
+#### (⚠️ Le gameplay ainsi que le style graphique n'est plus le même à ce jour ! ⚠️)
 
 
 ![exemple](./gif/Exemple.gif)
