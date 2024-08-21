@@ -42,7 +42,7 @@ Ce jeu se déroulera dans un monde post-apocalyptique infesté de zombies, où l
  	 [❌] Faire la ville d'Embervalle
    
 	🎭 Personnages et Entités :
-         [❌] Refaire tous les squelettes du jeu (Joueur/Ennemis/Items/etc.)
+ 	 [❌] Refaire tous les squelettes du jeu (Joueur/Ennemis/Items/etc.)
 	 [❌] Revoir les mécaniques du joueur à partir de zéro
 	 [❌] Développer la classe abstraite pour les ennemis/items/armes
 	 [❌] Créer différentes armes avec leurs propres propriétés
