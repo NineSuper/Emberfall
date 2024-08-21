@@ -24,8 +24,8 @@ Ce jeu se déroulera dans un monde post-apocalyptique infesté de zombies, où l
 	 [🚧] Faire tous les onglets
   
 	🕹️ Menu de Jeu :
-	[🚧] Faire un menu de jeu
-	[🚧] Mise en place des options (graphique/audio/options/touches)
+	 [🚧] Faire un menu de jeu
+	 [🚧] Mise en place des options (graphique/audio/options/touches)
  
 #### 👥 Intégration des Amis et Serveurs :
     [✅] Intégration d'amis Steam en direct/en jeu
@@ -42,25 +42,25 @@ Ce jeu se déroulera dans un monde post-apocalyptique infesté de zombies, où l
  	 [❌] Faire la ville d'Embervalle
    
 	🎭 Personnages et Entités :
-        [❌] Refaire tous les squelettes du jeu (Joueur/Ennemis/Items/etc.)
-	[❌] Revoir les mécaniques du joueur à partir de zéro
-	[❌] Développer la classe abstraite pour les ennemis/items/armes
-	[❌] Créer différentes armes avec leurs propres propriétés
-	[❌] Ajout d'items au sol (Armes/pièces/etc.)
-	[❌] Système de lumière autour du joueur
+         [❌] Refaire tous les squelettes du jeu (Joueur/Ennemis/Items/etc.)
+	 [❌] Revoir les mécaniques du joueur à partir de zéro
+	 [❌] Développer la classe abstraite pour les ennemis/items/armes
+	 [❌] Créer différentes armes avec leurs propres propriétés
+	 [❌] Ajout d'items au sol (Armes/pièces/etc.)
+	 [❌] Système de lumière autour du joueur
  	
 	⚒️ Autres:
-	[❌] Ajouter un HUD au gameplay
+	 [❌] Ajouter un HUD au gameplay
 #### 🔊 Audio :
 	[❌] Ajouter de la musique et des effets sonores (SFX)
 #### 🔨 Système et Fonctionnalités :
 	🛡️ Gestion des Serveurs :
-	[🚧] Expulser les joueurs du serveur si l'Owner se déconnecte
+	 [🚧] Expulser les joueurs du serveur si l'Owner se déconnecte
  
 	💾 Sauvegardes :
-	[❌] Revoir les sauvegardes de paramètres et de parties pour une meilleure compatibilité
-	[❌] Mise en place de sauvegarde des paramètres
-	[❌] Mise en place de sauvegarde des parties
+	 [❌] Revoir les sauvegardes de paramètres et de parties pour une meilleure compatibilité
+	 [❌] Mise en place de sauvegarde des paramètres
+	 [❌] Mise en place de sauvegarde des parties
 
 ## 👀 Aperçu actuel 
 ### ⚠️ Le gameplay ainsi que le style graphique n'est plus le même à ce jour ! ⚠️
