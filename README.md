@@ -14,15 +14,19 @@ Ce jeu se déroulera dans un monde post-apocalyptique infesté de zombies, où l
 🎮 Contrôles du joueur. </br>
 ⚙️ Menu d'options pour les configurations de touches, affichage et audio. </br>
 
+##### ⚠️ Toutes la base du jeu est en train d'être refondée à partir de zéro, tout ce qu'il y'a ci-dessous est actuellement en pause ! ⚠️
+
 ## 📅 Roadmap
 
 #### 🖥️ Menus et Interfaces :
 	🌐 Écran d'Accueil :
-	 	[✅] Création d'un écran d'accueil
-	 	[🚧] Faire tous les onglets
+	 [✅] Création d'un écran d'accueil
+	 [🚧] Faire tous les onglets
+  
 	🕹️ Menu de Jeu :
-		[🚧] Faire un menu de jeu
-		[🚧] Mise en place des options (graphique/audio/options/touches)
+	[🚧] Faire un menu de jeu
+	[🚧] Mise en place des options (graphique/audio/options/touches)
+ 
 #### 👥 Intégration des Amis et Serveurs :
     [✅] Intégration d'amis Steam en direct/en jeu
     [✅] Visualisation des serveurs en ligne
@@ -35,26 +39,32 @@ Ce jeu se déroulera dans un monde post-apocalyptique infesté de zombies, où l
     [❌] Permettre aux joueurs non-Steam de créer un compte avec pseudo et photo de profil
 #### 🎮 Gameplay :
 	🏙️ Environnements :
- 	    [❌] Faire la ville d'Embervalle
+ 	 [❌] Faire la ville d'Embervalle
+   
 	🎭 Personnages et Entités :
-        	[❌] Refaire tous les squelettes du jeu (Joueur/Ennemis/Items/etc.)
-	        [❌] Revoir les mécaniques du joueur à partir de zéro
-	        [❌] Développer la classe abstraite pour les ennemis/items/armes
-	        [❌] Créer différentes armes avec leurs propres propriétés
-	        [❌] Ajout d'items au sol (Armes/pièces/etc.)
-	        [❌] Système de lumière autour du joueur
-    [❌] Ajouter un HUD au gameplay
+        [❌] Refaire tous les squelettes du jeu (Joueur/Ennemis/Items/etc.)
+	[❌] Revoir les mécaniques du joueur à partir de zéro
+	[❌] Développer la classe abstraite pour les ennemis/items/armes
+	[❌] Créer différentes armes avec leurs propres propriétés
+	[❌] Ajout d'items au sol (Armes/pièces/etc.)
+	[❌] Système de lumière autour du joueur
+ 	
+	⚒️ Autres:
+	[❌] Ajouter un HUD au gameplay
 #### 🔊 Audio :
 	[❌] Ajouter de la musique et des effets sonores (SFX)
 #### 🔨 Système et Fonctionnalités :
 	🛡️ Gestion des Serveurs :
-		[🚧] Expulser les joueurs du serveur si l'Owner se déconnecte
+	[🚧] Expulser les joueurs du serveur si l'Owner se déconnecte
+ 
 	💾 Sauvegardes :
-		[❌] Revoir les sauvegardes de paramètres et de parties pour une meilleure compatibilité
-		[❌] Mise en place de sauvegarde des paramètres
-		[❌] Mise en place de sauvegarde des parties
+	[❌] Revoir les sauvegardes de paramètres et de parties pour une meilleure compatibilité
+	[❌] Mise en place de sauvegarde des paramètres
+	[❌] Mise en place de sauvegarde des parties
 
 ## 👀 Aperçu actuel
+
+##### ⚠️ Le gameplay ainsi que le style graphique n'est plus le même à ce jour ! ⚠️
 
 ![exemple](./gif/Exemple.gif)
 
