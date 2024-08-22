@@ -64,10 +64,65 @@ Ce jeu se déroulera dans un monde post-apocalyptique infesté de zombies, où l
 	 [❌] Mise en place de sauvegarde des paramètres
 	 [❌] Mise en place de sauvegarde des parties
 
+## 🌳 Arborescence des fichiers
+
+```
+MonProjet/
+├── entities/                     # Dossier principal pour les entités
+│   ├── NecroNight/
+│   ├── Viking/
+│   └── PoulDead/
+│
+├── player/                       # Dossier pour le joueur
+│   ├── sprites/
+│   ├── audio/
+│   ├── Player.tscn
+│   └── Player.gd
+│
+├── items/                        # Dossier pour les items
+│   ├── sprites/
+│   ├── audio/
+│   ├── Item1.tscn
+│   └── Item1.gd
+│
+├── weapons/                      # Dossier pour les armes
+│   ├── sprites/
+│   ├── audio/
+│   ├── Weapon1.tscn
+│   └── Weapon1.gd
+│
+├── menus/                        # Dossier pour les menus et l'interface utilisateur
+│   ├── sprites/
+│   ├── audio/
+│   ├── MainMenu.tscn
+│   └── MainMenu.gd
+│
+├── scenes/                       # Scènes principales et niveaux
+│   ├── main/
+│   └── levels/
+│
+├── scripts/                      # Autres scripts généraux
+│   ├── managers/
+│   └── UI/
+│
+├── autoload/                     # Scripts ou scènes à charger en singleton
+│   ├── Global.gd                 # Script autoload pour la gestion des données globales
+│   └── SaveManager.gd            # Script pour la gestion des sauvegardes
+│
+├── save_data/                    # Dossier pour les fichiers de sauvegarde
+│   ├── player_save.json          # Fichier de sauvegarde pour les données du joueur
+│   ├── game_save.json            # Fichier de sauvegarde pour les données du jeu (niveau, etc.)
+│   └── settings.cfg              # Fichier de configuration pour les paramètres du jeu
+│
+└── resources/                    # Fichiers ressource spécifiques à Godot
+    ├── materials/
+    └── prefabs/
+```
+
+
 ## 👀 Aperçu actuel 
 > [!IMPORTANT]
 > Le gameplay ainsi que le style graphique ne sont plus les mêmes à ce jour !
-
 
 ![exemple](./gif/Exemple.gif)
 
