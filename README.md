@@ -67,11 +67,12 @@ Ce jeu se déroulera dans un monde post-apocalyptique infesté de zombies, où l
 ## 🌳 Arborescence des fichiers
 
 ```
-MonProjet/
+Emberfall/
 ├── entities/                     # Dossier principal pour les entités
 │   ├── NecroNight/
-│   ├── Viking/
-│   └── PoulDead/
+│   ├── Zombies/
+│   ├── NightBones/
+|   └── NPC/
 │
 ├── player/                       # Dossier pour le joueur
 │   ├── sprites/
