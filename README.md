@@ -89,14 +89,16 @@ Emberfall/
 ├── weapons/                      # Dossier pour les armes
 │   ├── sprites/
 │   ├── audio/
-│   ├── Weapon1.tscn
-│   └── Weapon1.gd
+│   ├── Weapon.tscn
+│   ├── Weapon.gd
+│   └── Glock/...               # Autres Armes (suivant la même structure)
 │
 ├── menus/                        # Dossier pour les menus et l'interface utilisateur
 │   ├── sprites/
 │   ├── audio/
 │   ├── MainMenu.tscn
-│   └── MainMenu.gd
+│   ├── MainMenu.gd
+│   └── PauseMenu/...             # Autres menus (suivant la même structure)
 │
 ├── scenes/                       # Scènes principales et niveaux
 │   ├── main/
