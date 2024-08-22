@@ -72,7 +72,7 @@ Emberfall/
 │   ├── NecroNight/
 │   ├── Zombies/
 │   ├── NightBones/
-|   └── NPC/
+│   └── NPC/
 │
 ├── player/                       # Dossier pour le joueur
 │   ├── sprites/
