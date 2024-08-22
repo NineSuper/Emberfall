@@ -17,7 +17,7 @@ Ce jeu se déroulera dans un monde post-apocalyptique infesté de zombies, où l
 
 ## 📅 Roadmap
 > [!IMPORTANT]
-> Toute la base du jeu ainsi que son univers est en train d'être refondée
+> Toute la base du jeu, ainsi que son univers, est en train d'être refondée.
 
 
 #### 🖥️ Menus et Interfaces :
@@ -66,7 +66,7 @@ Ce jeu se déroulera dans un monde post-apocalyptique infesté de zombies, où l
 
 ## 👀 Aperçu actuel 
 > [!IMPORTANT]
-> ⚠️ Le gameplay ainsi que le style graphique n'est plus le même à ce jour !
+> Le gameplay ainsi que le style graphique ne sont plus les mêmes à ce jour !
 
 
 ![exemple](./gif/Exemple.gif)
