@@ -83,15 +83,15 @@ Emberfall/
 ├── items/                        # Dossier pour les items
 │   ├── sprites/
 │   ├── audio/
-│   ├── Item1.tscn
-│   └── Item1.gd
+│   ├── Item.tscn
+│   └── Item.gd
 │
 ├── weapons/                      # Dossier pour les armes
 │   ├── sprites/
 │   ├── audio/
 │   ├── Weapon.tscn
 │   ├── Weapon.gd
-│   └── Glock/...               # Autres Armes (suivant la même structure)
+│   └── Glock/...                 # Autres Armes (suivant la même structure)
 │
 ├── menus/                        # Dossier pour les menus et l'interface utilisateur
 │   ├── sprites/
