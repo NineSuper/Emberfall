@@ -14,7 +14,6 @@ Ce jeu se déroulera dans un monde post-apocalyptique infesté de zombies, où l
 🎮 Contrôles du joueur. </br>
 ⚙️ Menu d'options pour les configurations de touches, affichage et audio. </br>
 
-
 ## 📅 Roadmap
 > [!IMPORTANT]
 > Toute la base du jeu, ainsi que son univers, est en train d'être refondée.
@@ -22,12 +21,19 @@ Ce jeu se déroulera dans un monde post-apocalyptique infesté de zombies, où l
 
 #### 🖥️ Menus et Interfaces :
 	🌐 Écran d'Accueil :
-	 [✅] Création d'un écran d'accueil
-	 [🚧] Faire tous les onglets
+	 [✅] Création d'un écran d'accueil:
+  		- [❌] Fond
+    		- [❌] Animation
+      		- [❌] Effets
+		- [❌] Musique/Sons
+  		- [❌] Style UI
+	 [🚧] Faire les onglets du menu:
+  		- [❌] Choix des sauvegarde/commencer la partie
+		- [🚧] Liste des serveurs
+		- [🚧] Options
   
 	🕹️ Menu de Jeu :
-	 [🚧] Faire un menu de jeu
-	 [🚧] Mise en place des options (graphique/audio/options/touches)
+	 [❌] Faire un menu de jeu (quitter/options/etc...)
  
 #### 👥 Intégration des Amis et Serveurs :
     [✅] Intégration d'amis Steam en direct/en jeu
@@ -38,15 +44,16 @@ Ce jeu se déroulera dans un monde post-apocalyptique infesté de zombies, où l
 	    - [❌] Mettre un logo de serveur par défaut si l'utilisateur ne choisit pas d'image
 	    - [❌] Mettre une liste de logos de serveur par défaut
     [❌] Implémentation de l'invitation/rejoindre un ami/serveur
-    [❌] Permettre aux joueurs non-Steam de créer un compte avec pseudo et photo de profil
+    [❌] Permettre aux joueurs non-Steam de créer un compte avec pseudo et photo de profil (hors steam)
 #### 🎮 Gameplay :
 	🏙️ Environnements :
+ 	 [❌] Faire une map debug
  	 [❌] Faire la ville d'Embervalle
    
 	🎭 Personnages et Entités :
- 	 [❌] Refaire tous les squelettes du jeu (Joueur/Ennemis/Items/etc.)
-	 [❌] Revoir les mécaniques du joueur à partir de zéro
-	 [❌] Développer la classe abstraite pour les ennemis/items/armes
+ 	 [🚧] Refaire tous les squelettes du jeu avec des classes (Joueur/Ennemis/Items/etc.)
+	 [🚧] Revoir les mécaniques du joueur à partir de zéro
+	 [❌] Développer les classes abstraites pour les ennemis/items/armes
 	 [❌] Créer différentes armes avec leurs propres propriétés
 	 [❌] Ajout d'items au sol (Armes/pièces/etc.)
 	 [❌] Système de lumière autour du joueur
