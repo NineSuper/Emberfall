@@ -21,7 +21,7 @@ Ce jeu se déroulera dans un monde post-apocalyptique infesté de zombies, où l
 
 #### 🖥️ Menus et Interfaces :
 	🌐 Écran d'Accueil :
-	 [✅] Création d'un écran d'accueil:
+	 [✅] Création d'un écran d'accueil
   		- [❌] Fond
     		- [❌] Animation
       		- [❌] Effets
