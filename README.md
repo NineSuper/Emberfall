@@ -28,7 +28,7 @@ Ce jeu se déroulera dans un monde post-apocalyptique infesté de zombies, où l
 		- [❌] Musique/Sons
   		- [❌] Style UI
 	 [🚧] Faire les onglets du menu:
-  		- [❌] Choix des sauvegarde/commencer la partie
+  		- [❌] Choix des sauvegardes/commencer une nouvelle partie
 		- [🚧] Liste des serveurs
 		- [🚧] Options
   
